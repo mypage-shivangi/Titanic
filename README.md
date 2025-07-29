@@ -1,6 +1,15 @@
 ## 🚢 Titanic Survival Prediction – Binary Classification
 
-This project applies machine learning to predict passenger survival on the Titanic using features like age, gender, class, and fare. It’s a classic binary classification task based on a Kaggle competition.
+This notebook builds a machine learning model to predict survival outcomes on the Titanic. We use classic classification techniques like Random Forest, ElasticNet and XGBoost.
+
+We'll explore:
+
+Data cleaning and preprocessing
+
+Feature engineering
+
+Model training and evaluation
+
 
 ---
 
