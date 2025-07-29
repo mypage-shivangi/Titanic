@@ -1,4 +1,4 @@
-# 🚢 Titanic Survival Prediction – Binary Classification
+## 🚢 Titanic Survival Prediction – Binary Classification
 
 This project applies machine learning to predict passenger survival on the Titanic using features like age, gender, class, and fare. It’s a classic binary classification task based on a Kaggle competition.
 
@@ -72,7 +72,7 @@ We evaluated three models using stratified train-test splits and consistent prep
 
 ## 📁 Files
 
-- `titanic.ipynb` → Main notebook
+- `titanic.ipynb` → https://www.kaggle.com/code/shivangi2k18/titanic-survival-prediction
 - `data/` → https://www.kaggle.com/competitions/titanic/data
 - `submission.csv` → https://www.kaggle.com/competitions/titanic/submissions
 
@@ -80,4 +80,4 @@ We evaluated three models using stratified train-test splits and consistent prep
 
 ## 📬 Contact
 
-Interested in collaborating or discussing the project? Connect with me on [LinkedIn]([https://www.linkedin.com/in/shivangigupta01])
+Interested in collaborating or discussing the project? Connect with me on LinkedIn - https://www.linkedin.com/in/shivangigupta01
